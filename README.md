@@ -49,11 +49,17 @@ This repository documents an infrastructure automation system using GitLab CI/CD
 
 ---
 
-##　現在の進捗 | Current Status
+## 現在の進捗 | Current Status
 
-- GitLab CI/CD 構築完了 / GitLab CI/CD configured  
-- Ansible 実行環境・commonロール作成中 / Currently developing the Ansible execution environment and the common role  
-- Terraform/Kubernetes/ログ連携部分は今後対応予定 / Terraform, Kubernetes, and log integration are being planned  
+- GitLab CI/CD 構築完了  
+  GitLab CI/CD configured
+
+- Ansible 実行環境・commonロール作成中  
+  Currently developing the Ansible execution environment and the common role
+
+- Terraform/Kubernetes/ログ連携部分は今後対応予定  
+  Terraform, Kubernetes, and log integration are being planned
+
 - 本プロジェクトは現在進行中であり、継続的にアップデートされます  
   This project is currently under active development and will be updated continuously.
 
